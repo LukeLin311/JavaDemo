@@ -11,6 +11,7 @@
 	<%-- this is a comments no.2  (Good!client can not see the comment)--%>
 	<%
 		//this ia a comments no.3 (Good!client can not see the comment)
+		//Luke1 - added
 	%>
 	hi, everyone.<br>
 </body>
